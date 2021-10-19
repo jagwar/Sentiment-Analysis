@@ -1,4 +1,4 @@
-python3 classifier.py \
+python3 src/classifier.py \
 --model_type camembert \
 --pretrained_name camembert-base \
 --num_train_epochs 3 \
